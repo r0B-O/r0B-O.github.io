@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rob-o.dev/categories/</loc>
+    <loc>https://rob-o.dev/post/rob-o-init/</loc>
+    <lastmod>2022-01-21T20:53:57+05:30</lastmod>
+  </url><url>
+    <loc>https://rob-o.dev/post/</loc>
+    <lastmod>2022-01-21T20:53:57+05:30</lastmod>
   </url><url>
     <loc>https://rob-o.dev/</loc>
+    <lastmod>2022-01-21T20:53:57+05:30</lastmod>
+  </url><url>
+    <loc>https://rob-o.dev/categories/</loc>
   </url><url>
     <loc>https://rob-o.dev/tags/</loc>
   </url>
