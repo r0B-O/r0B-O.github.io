@@ -3,16 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rob-o.dev/post/rob-o-init/</loc>
-    <lastmod>2022-01-21T20:53:57+05:30</lastmod>
+    <lastmod>2022-01-22T13:05:07+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://rob-o.dev/post/</loc>
-    <lastmod>2022-01-21T20:53:57+05:30</lastmod>
+    <lastmod>2022-01-22T13:05:07+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://rob-o.dev/</loc>
-    <lastmod>2022-01-21T20:53:57+05:30</lastmod>
+    <lastmod>2022-01-22T13:05:07+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://rob-o.dev/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://rob-o.dev/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
