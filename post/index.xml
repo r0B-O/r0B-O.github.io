@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on rob-o</title>
+    <title>blog on rob-o</title>
     <link>https://rob-o.dev/post/</link>
-    <description>Recent content in Blog on rob-o</description>
+    <description>Recent content in blog on rob-o</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rob-o.dev/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://rob-o.dev/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>Binary &amp; Singularity</title>
+      <link>https://rob-o.dev/post/binry-and-singularity/</link>
+      <pubDate>Wed, 13 Apr 2022 21:28:23 +0530</pubDate>
       
-      <guid>https://rob-o.dev/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <guid>https://rob-o.dev/post/binry-and-singularity/</guid>
+      <description>&lt;h1 id=&#34;descriptive-text-here&#34;&gt;Descriptive text here&amp;hellip;&lt;/h1&gt;</description>
     </item>
     
   </channel>

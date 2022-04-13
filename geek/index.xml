@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scene on rob-o</title>
-    <link>https://rob-o.dev/tags/scene/</link>
-    <description>Recent content in scene on rob-o</description>
+    <title>geek on rob-o</title>
+    <link>https://rob-o.dev/geek/</link>
+    <description>Recent content in geek on rob-o</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://rob-o.dev/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rob-o.dev/geek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>init0</title>
       <link>https://rob-o.dev/geek/init0/</link>
